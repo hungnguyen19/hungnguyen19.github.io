@@ -3,10 +3,50 @@
     <title>Commits nocturnes</title>
     <link href="https://hungnguyen19.github.io/feed.xml" rel="self" />
     <link href="https://hungnguyen19.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2019-05-19T23:47:44+02:00</updated>
     <author>
         <name>Hùng Nguyễn</name>
     </author>
     <id>https://hungnguyen19.github.io</id>
 
+    <entry>
+        <title>nope not possible</title>
+        <author>
+            <name>Hùng Nguyễn</name>
+        </author>
+        <link href="https://hungnguyen19.github.io/nope-not-possible.html"/>
+        <id>https://hungnguyen19.github.io/nope-not-possible.html</id>
+
+        <updated>2019-05-19T23:45:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                    post without a title
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                post without a title
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>lorem ipsum</title>
+        <author>
+            <name>Hùng Nguyễn</name>
+        </author>
+        <link href="https://hungnguyen19.github.io/lorem-ipsum.html"/>
+        <id>https://hungnguyen19.github.io/lorem-ipsum.html</id>
+
+        <updated>2019-05-19T23:43:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                    nel dolor sit amet
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                nel dolor sit amet
+            ]]>
+        </content>
+    </entry>
 </feed>
